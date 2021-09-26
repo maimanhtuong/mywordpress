@@ -23,7 +23,7 @@ var ctPublicFunctions = {"_ajax_nonce":"bb34520520","_rest_nonce":"36aabb17b1","
 <script type="text/javascript" src="https://maimanhtuong.github.io/mywordpress/wp-content/plugins/cleantalk-spam-protect/js/apbct-public--functions.min.js?ver=5.160.3" id="ct_public_functions-js"></script>
 <script type="text/javascript" id="ct_public-js-extra">
 /*  */
-var ctPublic = {"pixel__setting":"3","pixel__enabled":"","pixel__url":"tuong\/pixel\/941b19d0dea76a216fe3107603909dcd.gif","data__email_check_before_post":"1"};
+var ctPublic = {"pixel__setting":"3","pixel__enabled":"","pixel__url":"tuong\/pixel\/5b4d21de08129da96a043365a4497d17.gif","data__email_check_before_post":"1"};
 /*  */
 </script>
 <script type="text/javascript" src="https://maimanhtuong.github.io/mywordpress/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.min.js?ver=5.160.3" id="ct_public-js"></script>
