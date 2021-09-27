@@ -1241,7 +1241,7 @@ body.error404 #content.site-content{
 	padding: 0px;
 }
 .error-404{
-	background:url(https://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/404.png) no-repeat center -20px #fff;
+	background:url(http://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/404.png) no-repeat center -20px #fff;
 	padding:15vh;
 	margin:0px auto;
 	text-align:center;

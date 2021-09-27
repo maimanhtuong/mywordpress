@@ -12,8 +12,8 @@
   font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
-src: url("https://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/vendors/icofont/fonts/icofont.woff2") format("woff2"),
-url("https://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/vendors/icofont/fonts/icofont.woff") format("woff");
+src: url("http://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/vendors/icofont/fonts/icofont.woff2") format("woff2"),
+url("http://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/vendors/icofont/fonts/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]

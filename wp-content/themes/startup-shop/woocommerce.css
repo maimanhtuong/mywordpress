@@ -288,7 +288,7 @@ ul.products li.product .button i{
 	font-size:20px;
 }
 ul.products li.product .button.theme-btn.loading span:after{
-	background:url(https://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/loader.svg) no-repeat;
+	background:url(http://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/loader.svg) no-repeat;
 	content:"";
 	position:absolute;
 	width:50px;
@@ -298,14 +298,14 @@ ul.products li.product .button.theme-btn.loading span:after{
 	right:-5px;
 }
 ul.products li.product .button.theme-btn.loading:hover span:after{
-	background:url(https://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/loader-h.svg) no-repeat;
+	background:url(http://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/loader-h.svg) no-repeat;
 	right:-5px;
 }
 form.processing{
     position: relative;
 }
 form.processing:after{
-    background:url(https://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/loader.svg) no-repeat;
+    background:url(http://maimanhtuong.github.io/mywordpress/wp-content/themes/startup-shop/assets/image/loader.svg) no-repeat;
     content:"";
     position:absolute;
     width:50px;
